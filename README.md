@@ -1,1 +1,3 @@
 # SQL_Pravali
+
+Created SQL_My Name repository......
